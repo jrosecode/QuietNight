@@ -1,0 +1,2 @@
+# Verification ledger
+Rust behaviors were specified as tests for silence, periodic loud sound, empty input, score bounds, and adaptive baseline before final implementation. Automated command outputs are recorded during final repository verification. Full iOS compilation is unavailable on this host because only Command Line Tools are selected; this limitation must not be represented as a passing iOS build. Physical-device overnight recording remains required before App Store distribution.

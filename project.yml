@@ -1,0 +1,11 @@
+name: QuietNight
+options:
+  bundleIdPrefix: com.jrosecode
+targets:
+  QuietNight:
+    type: application
+    platform: iOS
+    deploymentTarget: "17.0"
+    sources: [ios/QuietNight]
+    info: { path: ios/QuietNight/Info.plist }
+    settings: { PRODUCT_BUNDLE_IDENTIFIER: com.jrosecode.quietnight, SWIFT_VERSION: 5.9 }
